@@ -14,16 +14,16 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./icons/vue.png" width="70" alt="Vue.js" />
+      <img src="./icons/vue.svg" width="70" alt="Vue.js" />
     </td>
     <td align="center">
-      <img src="./icons/nuxt.png" width="70" alt="Nuxt.js" />
+      <img src="./icons/nuxt.svg" width="70" alt="Nuxt.js" />
     </td>
     <td align="center">
-      <img src="./icons/tailwind-light.png" width="70" alt="Tailwind CSS" />
+      <img src="./icons/tailwind.svg" width="70" alt="Tailwind CSS" />
     </td>
     <td align="center">
-      <img src="./icons/cloudflare.png" width="70" alt="Cloudflare" />
+      <img src="./icons/cloudflare.svg" width="70" alt="Cloudflare" />
     </td>
     <td align="center">
       <img src="./icons/html.png" width="70" alt="HTML 5" />
