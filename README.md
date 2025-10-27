@@ -3,20 +3,10 @@
   <img src="https://res.cloudinary.com/dhysfkiem/image/upload/v1759113182/My%20Brand/logo_tiagodev.png" alt="Logo Tiago Dev" width="250" />
 </div>
 
----
-
 <h1 align="center">👋 Olá, visitante!</h1>
 <p align="center">
   Me chamo <strong>Tiago Martins</strong>, sou <strong>Desenvolvedor Front-end Web</strong> focado em criar sites e sistemas web performáticos, escaláveis, seguros e com designs sofisticados.
 </p>
-
-<p align="center">
-  <em>Vue · Nuxt · Tailwind · Shadcn</em>
-</p>
-
----
-
-<h2 align="center">⚙️ Tecnologias</h2>
 
 <div align="center">
 
