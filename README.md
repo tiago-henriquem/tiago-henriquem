@@ -24,22 +24,25 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./icons/vue_animated.svg" width="70" alt="Vue" />
+      <img src="./icons/vue.png" width="70" alt="Vue.js" />
     </td>
     <td align="center">
-      <img src="./icons/nuxt_animated.svg" width="70" alt="Nuxt" />
+      <img src="./icons/nuxt.png" width="70" alt="Nuxt.js" />
     </td>
     <td align="center">
-      <img src="./icons/tailwind_animated.svg" width="70" alt="Tailwind" />
+      <img src="./icons/tailwind-light.png" width="70" alt="Tailwind CSS" />
     </td>
     <td align="center">
-      <img src="./icons/pinia_animated.svg" width="70" alt="Pinia" />
+      <img src="./icons/cloudflare.png" width="70" alt="Cloudflare" />
     </td>
     <td align="center">
-      <img src="./icons/vercel_animated.svg" width="70" alt="Vercel" />
+      <img src="./icons/html.png" width="70" alt="HTML 5" />
     </td>
     <td align="center">
-      <img src="./icons/cloudflare_animated.svg" width="70" alt="Cloudflare" />
+      <img src="./icons/css.png" width="70" alt="CSS 3" />
+    </td>
+    <td align="center">
+      <img src="./icons/jquery.png" width="70" alt="Jquery" />
     </td>
   </tr>
 </table>
